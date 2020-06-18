@@ -13,7 +13,7 @@ If you want to test the app on your pc, you need to configure the simulators to 
 
 ### Installation
 
-Agoraapp-Poc requires [Node.js](https://nodejs.org/) v4+ to run.
+Agoraapp-Poc requires [Node.js](https://nodejs.org/) v8+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
