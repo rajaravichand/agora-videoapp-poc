@@ -8,7 +8,7 @@ https://reactnative.dev/docs/environment-setup
 After setting up environment and installation you can run the app on simulators or real devices and test the app.
 Use the samem channel name for testing video  conference.
 The app will ask the user to access devices camera and microphone for the video conference.
-If you want to test the app on your pc, you need to configure the simulators to access webcam as a video source.
+You need to install the app on real devices to test camera working.
 
 
 ### Installation
